@@ -109,7 +109,7 @@ const Hero = () => {
 
           <motion.a
             href='#projects'
-            className='inline-block mt-8 px-6 py-3 bg-[#e9c0e9] text-[#292522] text-2xl font-extrabold rounded-xl mb-5 shadow transition-all hover:bg-[#d2e823] hover:text-[#1e2330] hover:shadow-lg'
+            className='inline-block mt-8 px-6 py-3 bg-[#e9c0e9] text-[#292522] text-2xl font-extrabold rounded-xl mb-7 shadow transition-all hover:bg-[#d2e823] hover:text-[#1e2330] hover:shadow-lg'
           >
             See My Work
           </motion.a>
