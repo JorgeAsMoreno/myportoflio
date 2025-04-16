@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root, body {
+  font-family: var(--font-afacad-flux), sans-serif;
+  scroll-behavior: smooth;
+}
